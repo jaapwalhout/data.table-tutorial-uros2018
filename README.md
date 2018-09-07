@@ -5,7 +5,7 @@ All files needed for this tutorial will be online on Monday 10 September 2018
 ### Contents:
  - Slides (as pdf)
  - Data & data generation R scripts (if necessary)
- - Excersise files (as R script files)
+ - Exercise files (as R script files)
 
 ### Background knowledge:
  - Participants are expected to be able to solve (simple) data manipulation tasks with base R and/or tidyverse-packages. Familiarity with SQL is useful, but not necessary.
