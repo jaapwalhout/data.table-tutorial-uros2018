@@ -1,11 +1,12 @@
 # Tutorial: Fast and efficient data manipulation with data.table
 
-All files needed for this tutorial are included in this repository.
+At the **[uRos2018](https://www.aanmelder.nl/uros2018)** conference you will get a chance to become more familiar `data.table`.
 
- - Event: **[uRos2018](https://www.aanmelder.nl/uros2018)**
+The data.table package is known for its speed and memory efficiency. It also has a bit of a learning curve. In this task oriented and hand-on tutorial you will get a head start with data.table and learn the beauty of its syntax. A􏰃er each explana􏰀on, you will be asked to solve a few exercises so you can internalize each concept.
+
  - Date: **Wednesday, September 12, 2018**
- - Time: **9:00 - 12:30**
- - Location: **Idenburgzaal** (at CBS, Henri Faasdreef 312, 2492JP The Hague, The Netherlands)
+ - Time: **9:00 - 12:30** (with 30 minute break)
+ - Location: **Idenburgzaal** (at CBS, Henri Faasdreef 312, The Hague, The Netherlands)
 
 ### Contents:
  - Slides (as pdf)
@@ -18,7 +19,7 @@ All files needed for this tutorial are included in this repository.
  - Participants should bring their own laptops with a recent version of R (3.4+) and a recent version of data.table (1.11.4)
 
 ### Preperation instructions:
- - Download the zip-file of this repository ([download link](https://github.com/jaapwalhout/data.table-tutorial-uros2018/archive/master.zip))
- - unzip it in a folder on your laptop
- - Make a new Project (upper right corner of Rstudio), choose "Existing folder" and navigate to the folder in which the contents were unzipped.
- - Make sure you have the project open when we start with the tutorial
+ - Download the zip-file of this repository ([download link](https://github.com/jaapwalhout/data.table-tutorial-uros2018/archive/master.zip));
+ - unzip it in a folder on your laptop;
+ - Make a new Project (upper right corner of Rstudio), choose "Existing folder" and select the folder in which the contents were unzipped;
+ - Make sure you have the project open when we start with the tutorial.
