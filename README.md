@@ -1,10 +1,9 @@
 # data.table tutorial ([uRos2018](https://www.aanmelder.nl/uros2018))
 
-All files needed for this tutorial will be online on Monday 10 September 2018
+All files needed for this tutorial are included in this repository.
 
 ### Contents:
  - Slides (as pdf)
- - Data & data generation R scripts (if necessary)
  - Exercise files (as R script files)
 
 ### Background knowledge:
