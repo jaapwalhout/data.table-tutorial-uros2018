@@ -1,8 +1,8 @@
 # Tutorial: Fast and efficient data manipulation with data.table
 
-At the **[uRos2018](https://www.aanmelder.nl/uros2018)** conference you will get a chance to become more familiar `data.table`.
+At the **[uRos2018](https://www.aanmelder.nl/uros2018)** conference you will get a chance to become more familiar with the [**data.table**-package](https://github.com/Rdatatable/data.table).
 
-The data.table package is known for its speed and memory efficiency. It also has a bit of a learning curve. In this task oriented and hand-on tutorial you will get a head start with data.table and learn the beauty of its syntax. A􏰃er each explana􏰀on, you will be asked to solve a few exercises so you can internalize each concept.
+The **data.table** package is known for its speed and memory efficiency. It also has a bit of a learning curve. In this task oriented and hand-on tutorial you will get a head start with **data.table** and learn the beauty of its syntax. After each explanation, you will be asked to solve a few exercises so you can internalize each concept.
 
  - Date: **Wednesday, September 12, 2018**
  - Time: **9:00 - 12:30** (with 30 minute break)
