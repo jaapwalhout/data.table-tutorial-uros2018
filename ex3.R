@@ -11,10 +11,8 @@
 
 library(data.table)
 
-air <- airquality
+air <- data.table(airquality)
 
-# convert 'air' to a data.table
-setDT(air)
 
 #------------------------------------------------------------
 # 3.1

@@ -11,10 +11,7 @@
 
 library(data.table)
 
-air <- airquality
-
-# convert 'air' to a data.table
-setDT(air)
+air <- data.table(airquality)
 
 airmonths <- data.table(Month = 5:9,
                         Month_abb = month.abb[5:9],
