@@ -1,11 +1,11 @@
 # Tutorial: Fast and efficient data manipulation with data.table
 
-Event: ([uRos2018](https://www.aanmelder.nl/uros2018))
+All files needed for this tutorial are included in this repository.
+
+Event: [uRos2018](https://www.aanmelder.nl/uros2018)
 Date: **Wednesday, September 12, 2018**
 Time: **9:00 - 12:30**
 Location: **Idenburgzaal** (at CBS, Henri Faasdreef 312, 2492JP The Hague, The Netherlands)
-
-All files needed for this tutorial are included in this repository.
 
 ### Contents:
  - Slides (as pdf)
