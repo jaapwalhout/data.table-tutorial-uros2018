@@ -18,7 +18,7 @@ The **data.table** package is known for its speed and memory efficiency. It also
 ### Requirements:
  - Participants should bring their own laptops with a recent version of R (3.4+) and a recent version of data.table (1.11.4)
 
-### Preperation instructions:
+### Preparation instructions:
  - Download the zip-file of this repository ([download link](https://github.com/jaapwalhout/data.table-tutorial-uros2018/archive/master.zip));
  - unzip it in a folder on your laptop;
  - Make a new Project (upper right corner of Rstudio), choose "Existing folder" and select the folder in which the contents were unzipped;
